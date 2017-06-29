@@ -21,12 +21,13 @@ Date: TBD
 
 > For help with the above steps, you can refer to the first 10 mins of [this video](https://www.youtube.com/watch?v=Q0jGAZAdZqM). Also, there are tons of resources on the web you can refer to about installing Anaconda, and using ipython notebooks.
 
+
 3. Once you have `ipython notebook` running on you machine, you can start executing python code on your machine.
     - You are now ready to start learning Python!
     - The [References](#References) section we provide two great resources (*General Python Tutorial* and *Crash Course in Python*) to help you get started.
 
-4. In case you are stuck, we will help unblock you.
-    - It is critical everyone is able to run `ipython notebook` on their machines. We will use ipython notebooks for coding in this course.
+4. In case you are stuck, we will help unblock you. Don't worry :)
+    - It is critical that everyone is able to run `ipython notebook` on their machines. We will use ipython notebooks for coding in this course.
 
 ## References:
 
