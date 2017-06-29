@@ -19,8 +19,7 @@ Date: TBD
 2. To verify Installation is fine, type `ipython notebook` on command prompt (also called `jupyter notebook`)
     - This should open a browser window, where you can execute Python code.
 
-    > For help with the above steps, you can refer to the first 10 mins of [this video](https://www.youtube.com/watch?v=Q0jGAZAdZqM). Also, there are tons of resources on the web you can refer to about installing Anaconda, and using ipython notebooks.
-
+> For help with the above steps, you can refer to the first 10 mins of [this video](https://www.youtube.com/watch?v=Q0jGAZAdZqM). Also, there are tons of resources on the web you can refer to about installing Anaconda, and using ipython notebooks.
 
 3. Once you have `ipython notebook` running on you machine, you can start executing python code on your machine.
     - You are now ready to start learning Python!
