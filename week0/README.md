@@ -16,5 +16,5 @@ Date: TBD
 
 - [Anaconda](https://www.continuum.io/downloads)
 - [General Python Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-- [Crash Course in Python (PDF)](week0/resources/crashcoursepython.pdf)
+- [Crash Course in Python (PDF)](resources/crashcoursepython.pdf)
     - This is from the book [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) by Joel Grus
