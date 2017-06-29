@@ -1,6 +1,6 @@
 # Python for Data Science
 
-Getting familiar with some Python libraries which is used heavily for Data Science and Machine Learning.
+Getting familiar with some **Python libraries (pandas, numpy, matplotlib)** which are used heavily for Data Science and Machine Learning tasks.
 
 Date: TBD
 

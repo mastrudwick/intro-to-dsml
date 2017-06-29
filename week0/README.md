@@ -12,6 +12,22 @@ Date: TBD
 
 ## Notes:
 
+1. Kindly install the Anaconda distribution on your laptops (see reference section below for install link)
+    - Please add the Anaconda install location to the PATH variable, so you don't have to provide pull Python path each time.
+    - Please install the latest Python  (3.x)
+
+2. To verify Installation is fine, type `ipython notebook` on command prompt (also called `jupyter notebook`)
+    - This should open a browser window, where you can execute Python code.
+
+    > For help with the above steps, you can refer to the first 10 mins of [this video](https://www.youtube.com/watch?v=Q0jGAZAdZqM). Also, there are tons of resources on the web you can refer to about installing Anaconda, and using ipython notebooks.
+
+3. Once you have `ipython notebook` running on you machine, you can start executing python code on your machine.
+    - You are now ready to start learning Python!
+    - The [References](#References) section we provide two great resources (*General Python Tutorial* and *Crash Course in Python*) to help you get started.
+
+4. In case you are stuck, we will help unblock you.
+    - It is critical everyone is able to run `ipython notebook` on their machines. We will use ipython notebooks for coding in this course.
+
 ## References:
 
 - [Anaconda](https://www.continuum.io/downloads)
