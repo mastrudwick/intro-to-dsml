@@ -25,6 +25,8 @@ Covers pre-requisites for the course.
 
 5. [Advanced Topics](week5).
     - **Bias / Variance** in ML
+    - **Unsupervised Learning** (will cover **kmeans**)
+    - **Online Learning**
     - **Deep Learning**
     - Experimentation. **A/B** flights
     - Other popular ML libraries (e.g. **TensorFlow**).
