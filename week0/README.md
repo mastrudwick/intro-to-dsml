@@ -35,3 +35,5 @@ Date: TBD
 - [General Python Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Crash Course in Python (PDF)](resources/crashcoursepython.pdf)
     - This is from the book [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) by Joel Grus
+- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures/tree/master/)
