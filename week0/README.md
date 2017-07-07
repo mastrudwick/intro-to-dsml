@@ -29,6 +29,10 @@ Date: TBD
 4. In case you are stuck, we will help unblock you. Don't worry :)
     - It is critical that everyone is able to run `ipython notebook` on their machines. We will use ipython notebooks for coding in this course.
 
+5. For Windows users, please install [Git bash](https://git-scm.com/downloads)
+    - we will use github as our *code delivery* mechanism
+    - p.s. tools like git and ipython are critical part of a data scientists toolkit.
+
 ## References:
 
 - [Anaconda](https://www.continuum.io/downloads)
