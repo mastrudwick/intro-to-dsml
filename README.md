@@ -10,10 +10,12 @@ Covers pre-requisites for the course.
 ## Topics Covered:
 
 1. [Python for Data Science](week1).
-    - Getting familiar with some **Python libraries (pandas, numpy, matplotlib)** which are used heavily for Data Science and Machine Learning tasks.
+    - Getting familiar with some **Python libraries (Pandas, Numpy, Matplotlib)** which are used heavily for Data Science and Machine Learning tasks.
 
 2. [Machine Learning Foundations](week2).
     - Will cover **Key Concepts** used in Machine Learning.
+    - Introduce the **Scikit-Learn** toolkit.
+    - Get started with ML algos : **Naive Bayes**
 
 3. [Linear Classifiers](week3).
     - Implement **Linear Regression** from scratch.
@@ -21,7 +23,7 @@ Covers pre-requisites for the course.
 
 4. [Decision Trees](week4).
     - Understand tree-based algorithms.
-    - Use popular ML toolkits **(e.g. scikit-learn)** for building **Decision Tree** models on a real-world dataset.
+    - Building **Decision Tree** models on a real-world dataset.
 
 5. [Advanced Topics](week5).
     - **Bias / Variance** in ML
@@ -32,7 +34,9 @@ Covers pre-requisites for the course.
     - Other popular ML libraries (e.g. **TensorFlow**).
     - ML as a service (e.g. **AzureML**)
 
-6. [Project](week6).
+6. [Projects, Building Data Science Profile](week6).
+    - Solving ML problems on Kaggle
+    - Building a Data Science profile.
     - Guidance for real-world projects using ML.
 
 ## Notes:
