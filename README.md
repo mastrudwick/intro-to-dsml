@@ -9,36 +9,76 @@ Covers pre-requisites for the course.
 
 ## Topics Covered:
 
-1. [Python for Data Science](week1).
-    - Getting familiar with some **Python libraries (Pandas, Numpy, Matplotlib)** which are used heavily for Data Science and Machine Learning tasks.
+### Week 1
+- Introduction
+- Installation, GitHub
+- Basic Python Syntax
+- 3 Python libraries : Pandas, Numpy, Matplotlib
+- Introduction to scikit-learn
 
-2. [Machine Learning Foundations](week2).
-    - Will cover **Key Concepts** used in Machine Learning.
-    - Introduce the **Scikit-Learn** toolkit.
-    - Get started with ML algos : **Naive Bayes**
+#### Homework
+- Please resolve any installation issues before next class
 
-3. [Linear Classifiers](week3).
-    - Implement **Linear Regression** from scratch.
-    - Explore how the same ideas extend to other linear classifiers **(e.g. Logistic Regression**, **SVM)**
+#### Optional
+- K Nearest Neighbors
 
-4. [Decision Trees](week4).
-    - Understand tree-based algorithms.
-    - Building **Decision Tree** models on a real-world dataset.
+#### Resources
 
-5. [Advanced Topics](week5).
-    - **Bias / Variance** in ML
-    - **Unsupervised Learning** (will cover **kmeans**)
-    - **Online Learning**
-    - **Deep Learning**
-    - Experimentation. **A/B** flights
-    - Other popular ML libraries (e.g. **TensorFlow**).
-    - ML as a service (e.g. **AzureML**)
+### Week 2
+- Linear Learners
+  - Linear Regression
+  - Logistic Regression
+  - SVM.
+- Model Evaluation Metrics
 
-6. [Projects, Building Data Science Profile](week6).
-    - Solving ML problems on Kaggle
-    - Building a Data Science profile.
-    - Guidance for real-world projects using ML.
+#### Homework
 
-## Notes:
+#### Optional
+- Bias / Variance in ML
 
-## References:
+#### Resources
+
+### Week 3
+- Tree Learners
+    - Decision Trees
+    - Random Forests
+- Naive Bayes
+- Ensembles.
+
+#### Homework
+
+#### Optional
+
+### Week 4
+- Neural Networks.
+- K-Means Clustering
+- Principal Component Analysis
+
+#### Homework
+
+#### Optional
+
+### Week 5 (Advanced Topics)
+- NLP
+- Deep Learning
+- Online Learning
+- Experimentation. A/B flights
+- Other popular ML libraries (TensorFlow).
+- ML as a service (AzureML)
+
+#### Homework
+
+#### Optional
+
+#### Resources
+
+### Week 6 (Projects, Building a Data Science Profile)
+- Solving ML problems on Kaggle
+- Building a Data Science profile.
+- Guidance for real-world projects using ML.
+
+#### Homework
+
+#### Optional
+
+#### Resources
