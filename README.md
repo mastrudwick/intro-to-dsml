@@ -1,6 +1,6 @@
-# ML-100-Intoduction-To-Data Science-and-Machine-Learning
+# Intoduction-To-Data Science-and-Machine-Learning
 
-This repo consolidates material for the [ML-100-Intoduction-To-Data Science-and-Machine-Learning](http://www.z2datalabs.com/data-science) training program.
+This repo consolidates material for the [Intoduction-To-Data Science-and-Machine-Learning](http://www.z2datalabs.com/data-science) training program.
 
 ## Pre-requisites:
 
@@ -11,13 +11,17 @@ Covers pre-requisites for the course.
 
 ### Week 1 (Python)
 - Introduction, Installation, GitHub
-- Basic Python Syntax
-- Python libraries : Pandas, Numpy, Matplotlib
+- [Basic Python Syntax](week1/code/1-python-tutorial.ipynb)
+- Python libraries:
+  - [Numpy](week1/code/2-numpy.ipynb)
+  - [Matplotlib](week1/code/3-matplotlib.ipynb)
+  - Pandas
 
 #### Homework
 - Please resolve any installation issues before next class
 
 #### Optional
+- [Working with Images in Numpy](week1/code/image-operations.ipynb)
 
 #### Resources
 - For more on Pandas, [Greg Reda's blog](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) is very helpful.
