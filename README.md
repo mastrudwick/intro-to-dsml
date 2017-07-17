@@ -39,6 +39,14 @@ Covers pre-requisites for the course.
 - Model Evaluation of Learning Models.
 - Choosing the right algorithm.
 
+#### Homework
+- Please resolve any installation issues before next class
+
+#### Optional
+- [Digits Dataset](week2/code/digits-dataset.ipynb)
+
+#### Resources
+
 ### Week 3 (Supervised Learning : Linear Learners)
 - Linear Learners.
     - Linear Regression.
